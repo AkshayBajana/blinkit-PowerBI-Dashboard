@@ -10,7 +10,7 @@ The goal of this project is to transform raw retail data into **actionable busin
 
 ---
 ## 🔗 LinkedIn
-- linkedIn video URL-
+- linkedIn video URL-https://www.linkedin.com/posts/akshaybajana_powerbi-businessintelligence-dashboard-activity-7413130046678347776-etJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzgd3QBOyeLg1fvly1pKm2FMH84IMHh6YE
 
 ## 🚀 Key Insights & Features
 
